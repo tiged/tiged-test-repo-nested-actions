@@ -5,6 +5,6 @@
   },
   {
     "action": "remove",
-    "files": ["file.txt", "dir/file.txt"]
+    "files": ["file.txt", "dir/file.txt", "doesnt-exist.txt"]
   }
 ]
