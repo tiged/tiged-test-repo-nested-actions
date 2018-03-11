@@ -1,0 +1,10 @@
+[
+  {
+    "action": "clone",
+    "src": "mhkeller/degit-test-repo-nested"
+  },
+  {
+    "action": "remove",
+    "files": "dir/file.txt"
+  }
+]
