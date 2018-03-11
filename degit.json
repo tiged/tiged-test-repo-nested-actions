@@ -5,6 +5,6 @@
   },
   {
     "action": "remove",
-    "files": "dir/file.txt"
+    "files": ["file.txt", "dir/file.txt"]
   }
 ]
